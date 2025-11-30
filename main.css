@@ -1,0 +1,26 @@
+
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+        .question {
+            margin-bottom: 20px;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        .question h3 {
+            margin-top: 0;
+        }
+        .hidden {
+            display: none;
+        }
+        .result {
+            margin-top: 30px;
+            font-size: 1.2em;
+            font-weight: bold;
+        }
+        button {
+            padding: 8px 15px;
+            cursor: pointer;
+        }
